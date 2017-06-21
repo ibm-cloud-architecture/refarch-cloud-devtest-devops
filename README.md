@@ -109,10 +109,9 @@ This channel will show all the messages the Toolchain sends to it.
    
 ## Task 7: Background Reading
 
-1. Complete the readings located here: 
-
-https://github.com/palistra/devops-demolabs/blob/master/lab-1-read-template-paper.md
+1. Complete the readings [located here](https://github.com/palistra/devops-demolabs/blob/master/lab-1-read-template-paper.md)
 
 
 
+## Now go to your tutorial and begin! [CLICK HERE](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd)
 
