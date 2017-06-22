@@ -3,14 +3,13 @@ This document provides you with the preparation for the lab. Please complete thi
 
 ## Objective
 
-This document provides all of the preparation you need to set up accounts and use those accounts to complete the [Create and use a microservices toolchain with DevOps Insights (v2)](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?task=1). To be successful in the tutorials, you must have access to the internet, an set of active accounts noted below and this preparation document. Your Bluemix account needs to have an organization and two spaces created.  Please follow these guidelines when preparing for a lab: 
-- be mindful to limit your tool chain name to less than 30 characters and ensure it is unique
-- ensure you are in a Bluemix organization in the US South region (where Open Tool Chain is available)  
-- if you are using a temporary account, ensure you have sufficient memory and service instance availability
+This document provides all of the preparation you need to set up accounts and use those accounts to complete the [Create and use a microservices toolchain with DevOps Insights (v2)](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd?task=1). To be successful in the tutorials, you must have access to the internet, a set of active accounts noted below and this preparation document. Your Bluemix account needs to have an organization and two spaces created.  Please follow these guidelines when preparing for a lab: 
+  - be mindful to limit your tool chain name to less than 30 characters and ensure it is unique
+  - ensure you are in a Bluemix organization in the US South region (where Open Toolchain is available)  
+  - if you are using a temporary Bluemix account, ensure you have sufficient memory and service instance availability
   [click here for guidance](https://console.bluemix.net/docs/pricing/index.html#bmtrial)
   
  **Use the accounts/credentials creared here in the lab tutorial you will access at the end of this document**
-
 
 **Tasks**:
 - [Task 1: Create Bluemix trial account](#task-1-create-bluemix-trial-account)
@@ -18,8 +17,7 @@ This document provides all of the preparation you need to set up accounts and us
 - [Task 3: Create GitHub account](#task-3-create-github-account)
 - [Task 4: Create a Sauce Labs account](#task-4-create-a-sauce-labs-account)
 - [Task 5: Set up Slack access](#task-5-set-up-slack-access)
-- [Task 6: Set up Pager Duty access](#task-6-set-up-pager-duty-access)
-- [Task 7: Background Reading](#task-7-background-reading)
+- [Task 6: Background Reading](#task-6-background-reading)
 
 ## Task 1: Create Bluemix trial account
 
@@ -94,25 +92,18 @@ Once you create and add yourself to the Slack team/channel - use it in the tutor
 
 ### Join appropriate channel
 
-1. Join the relevant channel based on the location of your training
+1. Join the relevant Slack channel based on the location of your training
 
-- montp_demolab_devops
-- ny_demolab_devops
-- tokyo_demolab_devops
-- melb_demolab_devops
+  - montp_demolab_devops
+  - ny_demolab_devops
+  - tokyo_demolab_devops
+  - melb_demolab_devops
 
 This channel will show all the messages the Toolchain sends to it.
-
-## Task 6: Set up Pager Duty access
-
-1. In a web browser, open a new tab and go to the following URL:
-
-   [https://signup.pagerduty.com/accounts/new](https://signup.pagerduty.com/accounts/new)
    
-## Task 7: Background Reading
+## Task 6: Background Reading
 
 1. Complete the readings [located here](https://github.com/palistra/devops-demolabs/blob/master/lab-1-read-template-paper.md)
-
 
 
 ## Now go to your tutorial and begin! [CLICK HERE](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_microservices_cd)
