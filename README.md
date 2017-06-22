@@ -8,6 +8,8 @@ This document provides all of the preparation you need to set up accounts and us
 - ensure you are in a Bluemix organization in the US South region (where Open Tool Chain is available)  
 - if you are using a temporary account, ensure you have sufficient memory and service instance availability
   [click here for guidance](https://console.bluemix.net/docs/pricing/index.html#bmtrial)
+  
+ **Use the accounts/credentials creared here in the lab tutorial you will access at the end of this document**
 
 
 **Tasks**:
@@ -62,7 +64,7 @@ Only two spaces are needed for the lab, if you need to create additional spaces,
 
 ## Task 5: Set up Slack access
 
-There are a number of ways to access Slack.  One is through the web browser, another is through a desktop application and a third is through your mobile device.  The method used in these labs in web browser.  Feel free to install the desktop or mobile app if you prefer accessing Slack in that way.
+Once you create and add yourself to the Slack team/channel - use it in the tutorial. Feel free to install the Slack client on your desktop or the Slack mobile app to access Slack.
 
 ### Create personal Slack ID
 
